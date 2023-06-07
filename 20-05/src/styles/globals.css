@@ -1,0 +1,23 @@
+@font-face {
+  /* My Font */
+  font-family: 'PixelFont';
+  src: url('./leviwindows/Windows\ Regular.ttf') format('truetype');
+  
+}
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'PixelFont';
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
